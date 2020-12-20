@@ -33,7 +33,7 @@ var monster;
 
 function preload() 
   {
-    polygonImg = loadImage("hexagon.png");
+    polygonImg = loadImage("unnamed.png");
     backgroundImg = loadImage("star.jpg");
 
   }
